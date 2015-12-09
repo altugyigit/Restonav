@@ -4,5 +4,6 @@
     <string name="action_settings">Ayarlar</string>
     <string name="btnTxtFind">Restoran Bul</string>
     <string name="btnTxtCode">Qr Kod Tara</string>
+    <string name="btnTxtFavori">Favorilerim</string>
 
 </resources>
