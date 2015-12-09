@@ -29,26 +29,33 @@
             android:textColor="@color/white"
             android:text="@string/btnTxtFind"
             android:drawableLeft="@drawable/btnFindIcon"
+            android:background="#939393"
             android:padding="20dp"
             />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="@color/white"
             android:text="@string/btnTxtYakinimdakiler"
             android:drawableLeft="@drawable/btnLocationIcon"
+            android:background="#939393"
             android:padding="20dp"
             />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="@color/white"
             android:text="@string/btnTxtFavori"
             android:drawableLeft="@drawable/btnFavoriteStarIcon"
+            android:background="#939393"
             android:padding="20dp"
             />
-
-
 
     </LinearLayout>
 
