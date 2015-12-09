@@ -28,7 +28,15 @@
             android:layout_height="wrap_content"
             android:textColor="@color/white"
             android:text="@string/btnTxtFind"
-            android:drawableLeft="@android:drawable/ic_menu_search"
+            android:drawableLeft="@drawable/btnFindIcon"
+            android:padding="20dp"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/btnTxtYakinimdakiler"
+            android:drawableLeft="@drawable/btnLocationIcon"
             android:padding="20dp"
             />
         <Button
@@ -36,17 +44,10 @@
             android:layout_height="wrap_content"
             android:textColor="@color/white"
             android:text="@string/btnTxtFavori"
-            android:drawableLeft="@android:drawable/star_big_on"
+            android:drawableLeft="@drawable/btnFavoriteStarIcon"
             android:padding="20dp"
             />
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white"
-            android:text="@string/btnTxtFind"
-            android:drawableLeft="@android:drawable/ic_dialog_map"
-            android:padding="20dp"
-            />
+
 
 
     </LinearLayout>
