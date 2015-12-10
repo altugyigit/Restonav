@@ -1,7 +1,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:padding="@dimen/horizontal_main_layout_padding">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -28,8 +29,10 @@
             android:layout_height="wrap_content"
             android:textColor="@color/white"
             android:text="@string/btnTxtFind"
-            android:drawableLeft="@drawable/btnFindIcon"
-            android:background="#939393"
+            android:textSize="@dimen/horizontal_main_btntext_size"
+            android:textStyle="bold"
+            android:drawableLeft="@drawable/btnfindicon"
+            android:background="@color/lightgray"
             android:padding="20dp"
             />
         <TextView
@@ -40,8 +43,10 @@
             android:layout_height="wrap_content"
             android:textColor="@color/white"
             android:text="@string/btnTxtYakinimdakiler"
-            android:drawableLeft="@drawable/btnLocationIcon"
-            android:background="#939393"
+            android:textSize="@dimen/horizontal_main_btntext_size"
+            android:textStyle="bold"
+            android:drawableLeft="@drawable/btnlocationicon"
+            android:background="@color/lightgray"
             android:padding="20dp"
             />
         <TextView
@@ -52,8 +57,10 @@
             android:layout_height="wrap_content"
             android:textColor="@color/white"
             android:text="@string/btnTxtFavori"
-            android:drawableLeft="@drawable/btnFavoriteStarIcon"
-            android:background="#939393"
+            android:textSize="@dimen/horizontal_main_btntext_size"
+            android:textStyle="bold"
+            android:drawableLeft="@drawable/btnfavoritestaricon"
+            android:background="@color/lightgray"
             android:padding="20dp"
             />
 

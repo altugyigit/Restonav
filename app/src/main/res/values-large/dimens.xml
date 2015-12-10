@@ -1,6 +1,12 @@
 <resources>
 
-    <dimen name="vertical_">16dp</dimen>
-    <dimen name="horizontal_">16dp</dimen>
+    <dimen name="vertical_title_size">20sp</dimen>
+    <dimen name="horizontal_title_size">20sp</dimen>
+
+    <dimen name="vertical_main_btntext_size">18sp</dimen>
+    <dimen name="horizontal_main_btntext_size">18sp</dimen>
+
+    <dimen name="vertical_main_layout_padding">14dp</dimen>
+    <dimen name="horizontal_main_layout_padding">19dp</dimen>
 
 </resources>

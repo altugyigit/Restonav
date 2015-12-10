@@ -6,5 +6,7 @@
     <string name="btnTxtCode">Qr Kod Tara</string>
     <string name="btnTxtFavori">Favorilerim</string>
     <string name="btnTxtYakinimdakiler">Bana Yakın Bul</string>
+    <string name="bilgi">Bilgi</string>
+    <string name="iptal">İptal</string>
 
 </resources>
