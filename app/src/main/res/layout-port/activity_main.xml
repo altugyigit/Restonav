@@ -7,14 +7,11 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        >
+        android:orientation="horizontal">
         <!--Merhaba, Login Olan Kisi.-->
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text=""
-
             />
 
     </LinearLayout>
